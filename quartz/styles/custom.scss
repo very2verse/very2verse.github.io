@@ -1,3 +1,16 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+.section-li .meta {
+  display: none;
+}
+
+.section-li {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.section-li a {
+  width: auto !important;
+  white-space: normal !important;
+  flex: 1;
+}
