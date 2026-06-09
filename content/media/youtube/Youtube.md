@@ -18,6 +18,8 @@ a list of my favourite channels/series/videoessays/etc on youtube<br>
         do i only follow women? well, mostly. her [whimsical books video](https://www.youtube.com/watch?v=uudafD5OKBw) is just pure artistry.<br>
     - [Anna Howard](https://www.youtube.com/@iamannacorinne)<br>
         Wild Geese podcast supremacy. so many interesting topics and so many thoughts and ideas.
+    - [Mina Le](https://www.youtube.com/@gremlita)<br>
+        best video essays on culturally relevant topics
 
 <br></br>
 
