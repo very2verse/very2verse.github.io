@@ -1,5 +1,5 @@
 ---
-title: Orcas
+title: Orca
 ---
 
 -*Transient orcas (mammal-eaters) occasionally kill and eat resident orcas (fish-eaters)* [Note: check source]
