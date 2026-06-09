@@ -33,4 +33,6 @@ a list of my favourite channels/series/videoessays/etc on youtube<br>
 
 <br></br>
 
-- **VIDEOESSAYS**<br>
+- **VIDEOS**<br>
+    - [The Linguistics of Project Hail Mary - Martin Hilpert](https://youtu.be/-mwLAjsdgVM)<br>
+    sooo we know i love languages, but i also kinda really enjoy linguistics. yeah, sometimes they're a nightmare, but this video about the hypothetical linguistics and linguistic challenges in Project Hail Mary and alien communication is, *chef's kiss*

@@ -14,4 +14,5 @@ future sidequests(??)<br>
 - creative coding, actually learn, do fun stuff, Godot!! fun games!! ([this playlist](https://youtube.com/playlist?list=PL-iZDkkCaueo8Q1zfUMKpQW1XD8Zzjg0Y&si=1w3JaP53l3WHEhdY))<br>
 - neocities personal webpage (como un cajón de sastre, con ilustraciones propias, páginas de fotografía, videos, música etc) ([esta playlist](https://youtube.com/playlist?list=PL5EJWkTU_SptLnF2YRt2lYsIVTWGyRvYz&si=A1AenL_iwM59aVbH))<br>
 - sudoku techniques! ([this yt playlist](https://www.youtube.com/playlist?list=PLvqNQJpcxW7I5rSJT2t8wqee_1nzcM1N9))<br>
--free courses, certificates??<br>
+- free courses, certificates??<br>
+- identify birds, birdying <br>
