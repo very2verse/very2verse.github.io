@@ -26,3 +26,7 @@ Bobobo!! Bobobooo!!! (puede que sea técnicamente ilegal pero de pequeña los ve
 Ikariam
 <img src='https://secure-asset-delivery.gameforge.com/partnersite_live_product/6a171b2f-0bf8-476e-9f99-fd0c8046fe9b/YWRoi79TPigWK6VzFikxpEUdfIzcRK3klQcQ8ZV4.jpeg' height="200" style="display:block; margin:left;"/> 
 <img src='https://i.promecal.es/IMG/2012/F2FC7AE2-E6BA-520B-42CD58F4B10687E1.JPG' height="300" style="display:block; margin:left;"/> 
+
+José Mota - Las gallinas que entran por las que van saliendo
+me quieren hacer gaslighting y decir que es "por las que salen" pero no. no.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CxrLN9xVx0I" frameborder="0" allowfullscreen></iframe>

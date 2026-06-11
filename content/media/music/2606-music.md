@@ -18,3 +18,8 @@ title: June 2026
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0M5kukiPjMQ" frameborder="0" allowfullscreen></iframe>
     </div>
     <br></br>
+
+- metienesloco! - kepa <br>
+    recommended by my boyfriend cause he thought it's totally my style and ideed it is &lt;3
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1078esJEGeVwTKGDljQ2th?si=42183f024060422b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+

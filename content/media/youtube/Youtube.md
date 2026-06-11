@@ -28,7 +28,10 @@ a list of my favourite channels/series/videoessays/etc on youtube<br>
     am i nerd for languages or is this amazing? kinda wanna learn chinese now tho<br>
     
     - Nicole Rafiee's [Euphoria Recap](https://youtube.com/playlist?list=PLZ6T4bQxxGmq8Yp2UAl5OFsOtCTvymVEK&si=52LAsTRxMfbC_l-n)<br>
-         i don't think you'll ever catch me actually watching euphoria, cause at this point, what for, but i love how Nicole does her recaps and i do like being up-to-date with the mess that's sometimes pop cuture (she also did one for each season of stranger things, great refresher before the finale)
+         i don't think you'll ever catch me actually watching euphoria, cause at this point, what for, but i love how Nicole does her recaps and i do like being up-to-date with the mess that's sometimes pop cuture (she also did one for each season of stranger things, great refresher before the finale)<br>
+    
+    - Hank Green's [AHA 'Ask Hank Anything!'](https://www.youtube.com/playlist?list=PLrrb6Kww-RX0Uk1ODpLsnMkzsyLqHsWbw)<br>
+        how are random questions this entertaining? also very cool guests and i love hank soooo
 
 
 <br></br>

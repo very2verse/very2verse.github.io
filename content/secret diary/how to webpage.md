@@ -48,3 +48,12 @@ git push -u origin v5:main
 **Spotify:**<br>
 importante el "embed/"<br>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/71DWSe2L6pZ6zIJM7Za3b5" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Embedded youtue video:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ID-DEL-VIDEO" frameborder="0" allowfullscreen></iframe>
+
+**bold**
+*italics*
+_also-italics?_
+
+heart: &lt;/3 cause < gets read as code
