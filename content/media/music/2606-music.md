@@ -20,6 +20,6 @@ title: June 2026
     <br></br>
 
 - metienesloco! - kepa <br>
-    recommended by my boyfriend cause he thought it's totally my style and ideed it is &lt;3
+    recommended by my boyfriend cause he thought it was totally my style and ideed it is &lt;3
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1078esJEGeVwTKGDljQ2th?si=42183f024060422b" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
