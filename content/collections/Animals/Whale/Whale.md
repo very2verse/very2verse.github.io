@@ -13,7 +13,7 @@ title: Whale
     <br>
 
 
-##Orcas
+## Orcas
 Order: Cetacea (marine mammals including all whales, dolphins, and porpoises)<br>
 Suborder: Odontoceti (toothed whales)<br>
 Family: Delphinidae (oceanic dolphins)<br>
@@ -33,3 +33,8 @@ Births from 1985-2017<br>
 Tilikum's offspring
 <img src='https://static.wikia.nocookie.net/killerwhales/images/0/03/Tilikum%27s_Family_Tree.png/revision/latest?cb=20221003001353' height="400" style="display:block; margin:auto;"/> 
 Tekoa --> Loro Parque
+
+Loro Parque Orca Family tree
+<iframe src="https://us.whales.org/wp-content/uploads/sites/2/2022/10/captive-orcas-loro-parque-spain.pdf" width="100%" height="600px"></iframe>
+
+
