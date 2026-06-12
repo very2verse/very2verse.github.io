@@ -10,11 +10,12 @@
 }
 
 .section-li a {
-  width: auto !important;
-  white-space: normal !important;
-  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  display: block;
 }
-
 
 .page > #quartz-body::after {
   content: "";
